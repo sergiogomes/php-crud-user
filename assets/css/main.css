@@ -1,0 +1,10 @@
+
+.register-form-grouper {
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
+
+legend > img {
+    border-radius: 50%;
+    width: 100px;
+}
